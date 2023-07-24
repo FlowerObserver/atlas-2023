@@ -1,0 +1,50 @@
+{
+	"id": -1,
+	"name": "Virtual Witch Phenomenon",
+	"description": "V.W.P. (Virtual Witch Phenomenon) is a group of virtual artists comprised of the digital brains of five witches: KAF, RIM, Harusaruhi, Isekaijoucho, and Koko.",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@VWPVirtualWitchPhenomenon"
+		],
+		"subreddit": [
+			"Kamitsubaki"
+		],
+		"discord": [
+			"NwCy89U"
+		]
+	},
+	"path": {
+		"197": [
+			[
+				-159,
+				-807
+			],
+			[
+				-113,
+				-807
+			],
+			[
+				-113,
+				-775
+			],
+			[
+				-159,
+				-775
+			],
+			[
+				-159,
+				-794
+			],
+			[
+				-159,
+				-803
+			]
+		]
+	},
+	"center": {
+		"197": [
+			-136,
+			-791
+		]
+	}
+}
